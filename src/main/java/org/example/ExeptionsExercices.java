@@ -35,6 +35,11 @@ public class ExeptionsExercices {
         return number;
     }
 
+    public static double readDoubleNumbers(){
+
+
+    }
+
 
 
 }
