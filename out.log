@@ -1,0 +1,18 @@
+2025-03-27 10:47:32 INFO  org.example.ExeptionsExamples:19 - as
+2025-03-27 10:49:11 INFO  org.example.ExeptionsExamples:19 - 
+2025-03-27 10:54:35 INFO  org.example.TryCatchExamples:16 - Introduce un número
+2025-03-27 10:54:38 ERROR org.example.TryCatchExamples:21 - El valor introducido no es un número
+2025-03-27 10:54:42 INFO  org.example.TryCatchExamples:16 - Introduce un número
+2025-03-27 10:54:45 INFO  org.example.TryCatchExamples:19 - EL número introducido es 5
+2025-03-27 10:56:50 INFO  org.example.TryCatchExamples:16 - Introduce un número
+2025-03-27 10:56:52 INFO  org.example.TryCatchExamples:20 - Introduce otr número
+2025-03-27 10:57:26 INFO  org.example.TryCatchExamples:16 - Introduce un número
+2025-03-27 10:57:30 INFO  org.example.TryCatchExamples:20 - Introduce otr número
+2025-03-27 10:57:31 ERROR org.example.TryCatchExamples:28 - No se puede dividir 0 entre 0
+2025-03-28 14:01:43 INFO  org.example.ExeptionsExercices:15 - org.example.StudentReader@51efea79
+2025-03-28 14:01:43 INFO  org.example.ExeptionsExercices:24 - Introduzca un número
+2025-03-28 14:02:05 INFO  org.example.ExeptionsExercices:16 - org.example.StudentReader@51efea79
+2025-03-28 14:02:05 INFO  org.example.ExeptionsExercices:25 - Introduzca un número
+2025-03-28 14:02:32 INFO  org.example.ExeptionsExercices:16 - org.example.StudentReader@51efea79
+2025-03-28 14:02:32 INFO  org.example.ExeptionsExercices:17 - org.example.StudentReader@51efea79
+2025-03-28 14:02:32 INFO  org.example.ExeptionsExercices:26 - Introduzca un número
