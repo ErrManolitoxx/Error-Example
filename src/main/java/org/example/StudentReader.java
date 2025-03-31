@@ -1,21 +1,20 @@
 package org.example;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import lombok.extern.log4j.Log4j;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+@Log4j
 public class StudentReader implements Reader<Student>{
 
-    private static final Logger log = LoggerFactory.getLogger(StudentReader.class);
     private static final Scanner scanner = new Scanner(System.in);
 
 
     @Override
     public Student read() {
 
-        log.info("Introduzca los datos de l estudiante: ");
+        log.info("Introduzca los datos del estudiante: ");
 
         log.info("NIF del alumno: ");
         String nif = scanner.nextLine();
